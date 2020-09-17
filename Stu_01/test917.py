@@ -44,11 +44,55 @@ for i in range(0,len(list1)-1):
         if list1[j] > list1[j + 1]:
             list1[j], list1[j + 1] = list1[j + 1], list1[j]
     print(list1)'''
+'''
+class teacher:
+    name = 'daiyanan'
+    age = '20'
+
+    def test_api(self):
+        return self.name+'我会接口测试。'
+
+    @classmethod
+    def swimming(cls):
+        return 'daiyanan is shuaige'
+
+    @staticmethod
+    def sing():
+        return 'daiyanan sing'
+#静态方法和类方法不可以调用类中的属性。
+
+
+t1 = teacher()
+res = t1.test_api()
+res2 = teacher.swimming()
+print(res)
+print(res2)
+print(t1)
+print(teacher.sing())'''
+
+
+class LemoTeacher:
+
+    def __init__(self,name,age):#内置函数
+        self.name = name
+        self.age = age
+
+    def test_api(self):
+        return self.name + '会接口测试。'
+
+    @classmethod
+    def swimming(cls):
+        return 'daiyanan is shuaige'
+
+    @staticmethod
+    def sing():
+        return 'daiyanan sing'
 
 
 
-
-
+t1 = LemoTeacher('daiyanan','18')
+res = t1.test_api()
+print(res)
 
 
 
