@@ -70,7 +70,7 @@ print(res2)
 print(t1)
 print(teacher.sing())'''
 
-
+'''
 class LemoTeacher:
 
     def __init__(self,name,age):#内置函数
@@ -92,7 +92,7 @@ class LemoTeacher:
 
 t1 = LemoTeacher('daiyanan','18')
 res = t1.test_api()
-print(res)
+print(res)'''
 
 
 
