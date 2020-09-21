@@ -10,6 +10,7 @@
 504访问超时
 '''
 
+'''
 class MathMethod:
     def __init__(self,a,b):
         self.a = a
@@ -30,9 +31,9 @@ class MathMethod_1(MathMethod):
 
     def add(self):#重写+超继承
         super(MathMethod_1, self).add()
-        return self.a + self.b + 10
+        return self.a + self.b + 10'''
     
-    
+
     
     
 
