@@ -37,10 +37,21 @@ class TestMathMethod(unittest.TestCase):
     def test_add_two_positive(self):
         res = MathMethod(1,1).add()
         print("1+1结果是",res)
+        #加一个断言，期望值和结果比对
+        try:
+            self.assertEqual(2,res,'比对成功')
+        except AssertionError as e:
+            print('出错啦断言错误是{0}'.format(e))
+            raise e
 
     def test_add_two1_positive(self):
         res = MathMethod(-1,-9).add()
         print('2+3结果是',res)
+        try:
+            self.assertEqual(-9,res,'预期和实际不一致')
+        except AssertionError as e:
+            print('出错啦断言错误是{0}'.format(e))
+            raise e
 
 
 

@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="736a2cc2-ad81-4641-a5de-652e3de25354" name="Default Changelist" comment="2020年9月18日更新">
-      <change afterPath="$PROJECT_DIR$/Stu_01/API_AUTO/MathMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stu_01/API_AUTO/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stu_01/Python_unittest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stu_01/Python_unittest/class_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stu_01/test921.py" afterDir="false" />
+    <list default="true" id="736a2cc2-ad81-4641-a5de-652e3de25354" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stu_01/test918.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stu_01/test918.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stu_01/Python_unittest/class_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stu_01/Python_unittest/class_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stu_01/test921.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stu_01/test921.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +149,7 @@
       <workItem from="1600243902629" duration="13413000" />
       <workItem from="1600346949156" duration="2426000" />
       <workItem from="1600389644448" duration="11784000" />
-      <workItem from="1600648666599" duration="7997000" />
+      <workItem from="1600648666599" duration="12788000" />
     </task>
     <task id="LOCAL-00001" summary="这是我第一个代码">
       <created>1600244049748</created>
@@ -183,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600415528642</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2020年9月21日更新">
+      <created>1600658389619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600658389619</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,29 +195,30 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="这是我第一个代码" />
     <MESSAGE value="2020年9月18日更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年9月18日更新" />
+    <MESSAGE value="2020年9月21日更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年9月21日更新" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="115" key="CommitChangelistDialog2" timestamp="1600415617530">
+    <state x="572" y="115" key="CommitChangelistDialog2" timestamp="1600658388448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600415617530" />
-    <state width="1340" height="229" key="GridCell.Tab.0.bottom" timestamp="1600658190010">
+    <state x="572" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600658388448" />
+    <state width="1340" height="229" key="GridCell.Tab.0.bottom" timestamp="1600672384939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="229" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600658190010" />
-    <state width="1340" height="229" key="GridCell.Tab.0.center" timestamp="1600658190009">
+    <state width="1340" height="229" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600672384939" />
+    <state width="1340" height="229" key="GridCell.Tab.0.center" timestamp="1600672384939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="229" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600658190009" />
-    <state width="1340" height="229" key="GridCell.Tab.0.left" timestamp="1600658190009">
+    <state width="1340" height="229" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600672384939" />
+    <state width="1340" height="229" key="GridCell.Tab.0.left" timestamp="1600672384939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="229" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600658190009" />
-    <state width="1340" height="229" key="GridCell.Tab.0.right" timestamp="1600658190009">
+    <state width="1340" height="229" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600672384939" />
+    <state width="1340" height="229" key="GridCell.Tab.0.right" timestamp="1600672384939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="229" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600658190009" />
+    <state width="1340" height="229" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600672384939" />
     <state width="1340" height="284" key="GridCell.Tab.1.bottom" timestamp="1600654164228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -235,14 +239,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="473" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600389676629" />
-    <state x="564" y="255" key="Vcs.Push.Dialog.v2" timestamp="1600415609690">
+    <state x="564" y="255" key="Vcs.Push.Dialog.v2" timestamp="1600658706822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="564" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600415609690" />
+    <state x="564" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600658706822" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Web_python2$test917.coverage" NAME="test917 Coverage Results" MODIFIED="1600330096064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
-    <SUITE FILE_PATH="coverage/Web_python2$class_02.coverage" NAME="class_02 Coverage Results" MODIFIED="1600658189992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/Python_unittest" />
+    <SUITE FILE_PATH="coverage/Web_python2$class_02.coverage" NAME="class_02 Coverage Results" MODIFIED="1600672384924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/Python_unittest" />
     <SUITE FILE_PATH="coverage/Web_code2$test917.coverage" NAME="test917 Coverage Results" MODIFIED="1600348733786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
     <SUITE FILE_PATH="coverage/Web_python2$test921.coverage" NAME="test921 Coverage Results" MODIFIED="1600657537088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
     <SUITE FILE_PATH="coverage/Web_python2$Test01.coverage" NAME="Test01 Coverage Results" MODIFIED="1600246857611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
