@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="736a2cc2-ad81-4641-a5de-652e3de25354" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Stu_01/Homework/HttpTestDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stu_01/Homework/RunSuite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stu_01/Homework/TestHttpJuHe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stu_01/Homework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stu_01/OldDic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stu_01/test922.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stu_01/Python_unittest/class_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stu_01/Python_unittest/class_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stu_01/test921.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stu_01/test921.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stu_01/Test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stu_01/OldDic/Test01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stu_01/test917.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stu_01/OldDic/test917.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stu_01/test918.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stu_01/OldDic/test918.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stu_01/test921.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stu_01/OldDic/test921.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +31,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1haKk1oZz9BRtNiL7kKn6kDCadp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,8 +50,57 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.class_02">
-    <configuration name="Test01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Web_python2\Stu_01\OldDic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test922">
+    <configuration name="HttpTestDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web_python2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stu_01/Homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stu_01/Homework/HttpTestDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RunSuite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web_python2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stu_01/Homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stu_01/Homework/RunSuite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test922" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Web_python2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,7 +113,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stu_01/Test01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stu_01/test922.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,78 +122,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for TestHttpJuHe.TestHttpJuHe.test_success_demo01" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Web_python2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stu_01/Python_unittest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stu_01/Homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stu_01/Python_unittest/class_02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestHttpJuHe.TestHttpJuHe.test_success_demo01&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="test917" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for TestHttpJuHe.TestHttpJuHe.test_success_demo02" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Web_python2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stu_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stu_01/Homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stu_01/test917.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test921" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Web_python2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stu_01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stu_01/test921.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestHttpJuHe.TestHttpJuHe.test_success_demo02&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.class_02" />
-        <item itemvalue="Python.test921" />
-        <item itemvalue="Python.test917" />
-        <item itemvalue="Python.Test01" />
+        <item itemvalue="Python.test922" />
+        <item itemvalue="Python.RunSuite" />
+        <item itemvalue="Python tests.Unittests for TestHttpJuHe.TestHttpJuHe.test_success_demo02" />
+        <item itemvalue="Python tests.Unittests for TestHttpJuHe.TestHttpJuHe.test_success_demo01" />
+        <item itemvalue="Python.HttpTestDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +175,7 @@
       <workItem from="1600243902629" duration="13413000" />
       <workItem from="1600346949156" duration="2426000" />
       <workItem from="1600389644448" duration="11784000" />
-      <workItem from="1600648666599" duration="12788000" />
+      <workItem from="1600648666599" duration="30913000" />
     </task>
     <task id="LOCAL-00001" summary="这是我第一个代码">
       <created>1600244049748</created>
@@ -186,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600658389619</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2020年9月21日更新，新增HTMLTestRunner报告">
+      <created>1600672476304</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600672476304</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,59 +229,65 @@
     <MESSAGE value="这是我第一个代码" />
     <MESSAGE value="2020年9月18日更新" />
     <MESSAGE value="2020年9月21日更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年9月21日更新" />
+    <MESSAGE value="2020年9月21日更新，新增HTMLTestRunner报告" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年9月21日更新，新增HTMLTestRunner报告" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="115" key="CommitChangelistDialog2" timestamp="1600658388448">
+    <state x="572" y="115" key="CommitChangelistDialog2" timestamp="1600672475637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600658388448" />
-    <state width="1340" height="229" key="GridCell.Tab.0.bottom" timestamp="1600672384939">
+    <state x="572" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600672475637" />
+    <state width="1340" height="229" key="GridCell.Tab.0.bottom" timestamp="1600761437126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="229" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600672384939" />
-    <state width="1340" height="229" key="GridCell.Tab.0.center" timestamp="1600672384939">
+    <state width="1340" height="229" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600761437126" />
+    <state width="1340" height="229" key="GridCell.Tab.0.center" timestamp="1600761437126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="229" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600672384939" />
-    <state width="1340" height="229" key="GridCell.Tab.0.left" timestamp="1600672384939">
+    <state width="1340" height="229" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600761437126" />
+    <state width="1340" height="229" key="GridCell.Tab.0.left" timestamp="1600761437125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="229" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600672384939" />
-    <state width="1340" height="229" key="GridCell.Tab.0.right" timestamp="1600672384939">
+    <state width="1340" height="229" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600761437125" />
+    <state width="1340" height="229" key="GridCell.Tab.0.right" timestamp="1600761437126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="229" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600672384939" />
-    <state width="1340" height="284" key="GridCell.Tab.1.bottom" timestamp="1600654164228">
+    <state width="1340" height="229" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600761437126" />
+    <state width="1340" height="60" key="GridCell.Tab.1.bottom" timestamp="1600742844686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600654164228" />
-    <state width="1340" height="284" key="GridCell.Tab.1.center" timestamp="1600654164227">
+    <state width="1340" height="60" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600742844686" />
+    <state width="1340" height="60" key="GridCell.Tab.1.center" timestamp="1600742844685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600654164227" />
-    <state width="1340" height="284" key="GridCell.Tab.1.left" timestamp="1600654164227">
+    <state width="1340" height="60" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600742844685" />
+    <state width="1340" height="60" key="GridCell.Tab.1.left" timestamp="1600742844685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600654164227" />
-    <state width="1340" height="284" key="GridCell.Tab.1.right" timestamp="1600654164227">
+    <state width="1340" height="60" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600742844685" />
+    <state width="1340" height="60" key="GridCell.Tab.1.right" timestamp="1600742844686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600654164227" />
+    <state width="1340" height="60" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600742844685" />
     <state x="473" y="154" key="SettingsEditor" timestamp="1600389676629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="473" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600389676629" />
-    <state x="564" y="255" key="Vcs.Push.Dialog.v2" timestamp="1600658706822">
+    <state x="564" y="255" key="Vcs.Push.Dialog.v2" timestamp="1600676438300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="564" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600658706822" />
+    <state x="564" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600676438300" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Web_python2$test917.coverage" NAME="test917 Coverage Results" MODIFIED="1600330096064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
-    <SUITE FILE_PATH="coverage/Web_python2$class_02.coverage" NAME="class_02 Coverage Results" MODIFIED="1600672384924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/Python_unittest" />
+    <SUITE FILE_PATH="coverage/Web_python2$HttpTestDemo.coverage" NAME="HttpTestDemo Coverage Results" MODIFIED="1600756064849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/Homework" />
+    <SUITE FILE_PATH="coverage/Web_python2$test922.coverage" NAME="test922 Coverage Results" MODIFIED="1600761437113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
+    <SUITE FILE_PATH="coverage/Web_python2$class_02.coverage" NAME="class_02 Coverage Results" MODIFIED="1600679780032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/Python_unittest" />
+    <SUITE FILE_PATH="coverage/Web_python2$RunSuite.coverage" NAME="RunSuite Coverage Results" MODIFIED="1600760397947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/Homework" />
     <SUITE FILE_PATH="coverage/Web_code2$test917.coverage" NAME="test917 Coverage Results" MODIFIED="1600348733786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
+    <SUITE FILE_PATH="coverage/Web_python2$Unittests_for_TestHttpJuHe_TestHttpJuHe_test_success_demo01.coverage" NAME="Unittests for TestHttpJuHe.TestHttpJuHe.test_success_demo01 Coverage Results" MODIFIED="1600757780763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/Homework" />
     <SUITE FILE_PATH="coverage/Web_python2$test921.coverage" NAME="test921 Coverage Results" MODIFIED="1600657537088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
     <SUITE FILE_PATH="coverage/Web_python2$Test01.coverage" NAME="Test01 Coverage Results" MODIFIED="1600246857611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
+    <SUITE FILE_PATH="coverage/Web_python2$Unittests_for_TestHttpJuHe_TestHttpJuHe_test_success_demo02.coverage" NAME="Unittests for TestHttpJuHe.TestHttpJuHe.test_success_demo02 Coverage Results" MODIFIED="1600758532460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/Homework" />
   </component>
 </project>

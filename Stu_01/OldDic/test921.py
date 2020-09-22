@@ -28,7 +28,7 @@ class HttpRequest:
             print('输入有误')'''
 
 
-
+'''
 import unittest
 from Stu_01.API_AUTO.MathMethod import MathMethod
 
@@ -54,9 +54,9 @@ class TestMathMethod(unittest.TestCase):
             raise e
 
 
+'''
 
-if __name__ == '__main__':
-    unittest.main()
+
 
 
 

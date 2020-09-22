@@ -1,6 +1,5 @@
 import unittest
-from Stu_01.API_AUTO.MathMethod import MathMethod
-from Stu_01.test921 import TestMathMethod
+from Stu_01.OldDic.test921 import TestMathMethod
 import HTMLTestRunner
 
 
