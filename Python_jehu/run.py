@@ -22,7 +22,7 @@ for item in test_data:
 
 
 #执行测试报告-最新。HTML
-with open(r'D:\Web_python2\Python_jehu\test_result\test_juhe_report_new.html','wb') as file:
+with open(r'D:\Web_python2\Python_jehu\test_result\html_report\test_juhe_report_new.html','wb') as file:
     runner =  HTMLTestRunner.HTMLTestRunner(stream=file, verbosity=2, title='聚合数据测试报告',
                                             description='聚合登录测试报告')
     runner.run(suite)

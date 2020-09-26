@@ -1,6 +1,6 @@
 import unittest
-from Python_jehu.HttpTestDemoNew import HttpTestDemo
-from Python_jehu.tools.do_excel import DoExcel
+from Python_jehu.tools.HttpTestDemoNew import HttpTestDemo
+
 
 class TestHttpCase(unittest.TestCase):
     def setUp(self):

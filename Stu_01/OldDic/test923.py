@@ -42,13 +42,13 @@
 # print(res.json())
 
 import unittest
-from Python_jehu.tools.do_excel import DoExcel
-import HTMLTestRunner
-from Python_jehu.TestHttpCase import TestHttpCase
-import json
-import requests
-
-test_data=DoExcel(r'D:\Web_python2\Python_jehu\test_data\test_case925.xlsx','juhe').get_data()
+# from Python_jehu.tools.do_excel import DoExcel
+# import HTMLTestRunner
+# from Python_jehu.TestHttpCase import TestHttpCase
+# import json
+# import requests
+#
+# test_data=DoExcel(r'D:\Web_python2\Python_jehu\test_data\test_case925.xlsx','juhe').get_data()
 
 # for item in test_data:
 #     # print(item['url'])
@@ -57,18 +57,14 @@ test_data=DoExcel(r'D:\Web_python2\Python_jehu\test_data\test_case925.xlsx','juh
 #     print(a)
 #     # print(type(a))
 
-
-    # print(item['method'])
-print(test_data[0]['url'])
-# print(test_data[0]['data'])
-data={"key":"883e9d6d2988042a6d2a054e6f074557"}
-print(type(data))
-res = requests.get(test_data[0]['url'],data)
-print(res.json())
-
-
-
-
+#
+#     # print(item['method'])
+# print(test_data[0]['url'])
+# # print(test_data[0]['data'])
+# data={"key":"883e9d6d2988042a6d2a054e6f074557"}
+# print(type(data))
+# res = requests.get(test_data[0]['url'],data)
+# print(res.json())
 
 
 
