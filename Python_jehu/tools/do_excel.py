@@ -3,17 +3,17 @@ from openpyxl import load_workbook
 
 
 class DoExcel:
-    def __init__(self,file_name,sheet_name,result):
-        self.file_name=file_name
-        self.sheet_name=sheet_name
-        self.result=result
+    # def __init__(self,file_name,sheet_name,result):
+    #     self.file_name=file_name
+    #     self.sheet_name=sheet_name
+    #     self.result=result
 
-    def get_data(self):
+    def get_data(self,file_name,sheet_name):
 
         #1先打开excel
-        wb = load_workbook(self.file_name)
+        wb = load_workbook(file_name)
         #2定位到sheet页
-        sheet = wb[self.sheet_name]
+        sheet = wb[sheet_name]
         #3查询数据
         test_data = []
         for i in range(1, sheet.max_row):#遍历最大的行数
@@ -27,14 +27,14 @@ class DoExcel:
             test_data.append(sub_data)
         return test_data
 
-    def save_data(self):
+    def save_data(self,file_name,sheet_name,i,result):
         # 1先打开excel
-        wb = load_workbook(self.file_name)
+        wb = load_workbook(file_name)
         # 2定位到sheet页
-        sheet = wb[self.sheet_name]
-        for i in range(1,sheet.max_row):
-            sheet.cell(i + 1,7).value = self.result
-        wb.save(r'D:\Web_python2\Python_jehu\test_data\test_case925.xlsx')
+        sheet = wb[sheet_name]
+        # for i in range(1,sheet.max_row):
+        sheet.cell(i + 1,7).value = result
+        wb.save(file_name)
 
 
 
