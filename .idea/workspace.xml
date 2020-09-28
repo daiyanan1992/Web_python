@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="736a2cc2-ad81-4641-a5de-652e3de25354" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_jehu/tools/project_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_jehu/test_result/log/py11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_jehu/tools/my_log.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_jehu/learn/TestHttpCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_jehu/learn/TestHttpCase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_jehu/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_jehu/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_jehu/test_data/test_pands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_jehu/test_data/test_pands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_jehu/tools/do_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_jehu/tools/do_excel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stu_01/Homework/RunSuite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stu_01/Homework/RunSuite.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,7 @@
       <recent name="D:\Web_python2\Stu_01\OldDic" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_pands">
+  <component name="RunManager" selected="Python.my_log">
     <configuration name="do_excel (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Web_python2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,6 +66,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_jehu/tools/do_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_log" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web_python2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_jehu/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_jehu/tools/my_log.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,28 +140,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test923 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Web_python2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stu_01/OldDic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stu_01/OldDic/test923.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test_pands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Web_python2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.my_log" />
         <item itemvalue="Python.test_pands" />
         <item itemvalue="Python.run" />
         <item itemvalue="Python.project_path" />
         <item itemvalue="Python.do_excel (1)" />
-        <item itemvalue="Python.test923 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +186,8 @@
       <workItem from="1600346949156" duration="2426000" />
       <workItem from="1600389644448" duration="11784000" />
       <workItem from="1600648666599" duration="75583000" />
-      <workItem from="1601099502455" duration="19406000" />
+      <workItem from="1601099502455" duration="19443000" />
+      <workItem from="1601259600607" duration="7861000" />
     </task>
     <task id="LOCAL-00001" summary="这是我第一个代码">
       <created>1600244049748</created>
@@ -275,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601192106372</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2020年9月28日编写测试聚合框架">
+      <created>1601259313943</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601259313943</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,53 +297,58 @@
     <MESSAGE value="2020年9月24日编写测试聚合框架" />
     <MESSAGE value="2020年9月26日编写测试聚合框架" />
     <MESSAGE value="2020年9月27日编写测试聚合框架" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年9月27日编写测试聚合框架" />
+    <MESSAGE value="2020年9月28日编写测试聚合框架" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年9月28日编写测试聚合框架" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="115" key="CommitChangelistDialog2" timestamp="1601192105476">
+    <state x="1135" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601281639380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601192105476" />
-    <state width="1340" height="228" key="GridCell.Tab.0.bottom" timestamp="1601257022196">
+    <state x="1135" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601281639380" />
+    <state x="572" y="115" key="CommitChangelistDialog2" timestamp="1601259312568">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="228" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601257022196" />
-    <state width="1340" height="228" key="GridCell.Tab.0.center" timestamp="1601257022196">
+    <state x="572" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601259312568" />
+    <state width="1340" height="211" key="GridCell.Tab.0.bottom" timestamp="1601281694209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="228" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601257022196" />
-    <state width="1340" height="228" key="GridCell.Tab.0.left" timestamp="1601257022196">
+    <state width="1340" height="211" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601281694209" />
+    <state width="1340" height="211" key="GridCell.Tab.0.center" timestamp="1601281694209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="228" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601257022196" />
-    <state width="1340" height="228" key="GridCell.Tab.0.right" timestamp="1601257022196">
+    <state width="1340" height="211" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601281694209" />
+    <state width="1340" height="211" key="GridCell.Tab.0.left" timestamp="1601281694209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="228" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601257022196" />
-    <state width="1340" height="260" key="GridCell.Tab.1.bottom" timestamp="1601191336603">
+    <state width="1340" height="211" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601281694209" />
+    <state width="1340" height="211" key="GridCell.Tab.0.right" timestamp="1601281694209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="260" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601191336603" />
-    <state width="1340" height="260" key="GridCell.Tab.1.center" timestamp="1601191336603">
+    <state width="1340" height="211" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601281694209" />
+    <state width="1340" height="260" key="GridCell.Tab.1.bottom" timestamp="1601259343546">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="260" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601191336603" />
-    <state width="1340" height="260" key="GridCell.Tab.1.left" timestamp="1601191336603">
+    <state width="1340" height="260" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601259343546" />
+    <state width="1340" height="260" key="GridCell.Tab.1.center" timestamp="1601259343546">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="260" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601191336603" />
-    <state width="1340" height="260" key="GridCell.Tab.1.right" timestamp="1601191336603">
+    <state width="1340" height="260" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601259343546" />
+    <state width="1340" height="260" key="GridCell.Tab.1.left" timestamp="1601259343546">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="260" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601191336603" />
+    <state width="1340" height="260" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601259343546" />
+    <state width="1340" height="260" key="GridCell.Tab.1.right" timestamp="1601259343546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="260" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601259343546" />
     <state x="473" y="154" key="SettingsEditor" timestamp="1600389676629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="473" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600389676629" />
-    <state x="564" y="255" key="Vcs.Push.Dialog.v2" timestamp="1601192114941">
+    <state x="564" y="255" key="Vcs.Push.Dialog.v2" timestamp="1601259321656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="564" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601192114941" />
+    <state x="564" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601259321656" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601017681562">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -368,11 +378,12 @@
     <SUITE FILE_PATH="coverage/Web_python2$HttpTestDemo.coverage" NAME="HttpTestDemo Coverage Results" MODIFIED="1600756064849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/Homework" />
     <SUITE FILE_PATH="coverage/Web_python2$project_path.coverage" NAME="project_path Coverage Results" MODIFIED="1601196117946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_jehu/tools" />
     <SUITE FILE_PATH="coverage/Web_code2$test917.coverage" NAME="test917 Coverage Results" MODIFIED="1600348733786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
+    <SUITE FILE_PATH="coverage/Web_python2$my_log.coverage" NAME="my_log Coverage Results" MODIFIED="1601281694190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_jehu/tools" />
     <SUITE FILE_PATH="coverage/Web_python2$Unittests_for_TestHttpJuHe_TestHttpJuHe_test_success_demo01.coverage" NAME="Unittests for TestHttpJuHe.TestHttpJuHe.test_success_demo01 Coverage Results" MODIFIED="1600757780763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/Homework" />
     <SUITE FILE_PATH="coverage/Web_python2$test923.coverage" NAME="test923 Coverage Results" MODIFIED="1600845688290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
     <SUITE FILE_PATH="coverage/Web_python2$test921.coverage" NAME="test921 Coverage Results" MODIFIED="1600657537088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
     <SUITE FILE_PATH="coverage/Web_python2$class_01.coverage" NAME="class_01 Coverage Results" MODIFIED="1600934281601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/OldDic/do_config" />
-    <SUITE FILE_PATH="coverage/Web_python2$test_pands.coverage" NAME="test_pands Coverage Results" MODIFIED="1601257022173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_jehu/test_data" />
+    <SUITE FILE_PATH="coverage/Web_python2$test_pands.coverage" NAME="test_pands Coverage Results" MODIFIED="1601280577895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_jehu/test_data" />
     <SUITE FILE_PATH="coverage/Web_python2$run.coverage" NAME="run Coverage Results" MODIFIED="1601256247446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_jehu" />
   </component>
 </project>
