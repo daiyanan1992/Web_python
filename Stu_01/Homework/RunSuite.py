@@ -20,6 +20,7 @@ suite = unittest.TestSuite()#存储用例
 #方法二TestLoader
 loader = unittest.TestLoader()#创建一个加载器
 # suite.addTest(loader.loadTestsFromTestCase(TestHttpJuHe))
+
 for item in test_data:
     # suite.addTest(TestHttpJuHe('test_api',url=test_data[0]['url'],data=test_data[0]['data'],method=test_data[0]['method']))
     suite.addTest(TestHttpJuHe('test_api',item['url'],item['data'],item['method']))

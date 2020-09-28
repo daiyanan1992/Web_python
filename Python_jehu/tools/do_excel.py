@@ -39,6 +39,6 @@ class DoExcel:
 
 
 if __name__ == '__main__':
-    # res = DoExcel(r'D:\Web_python2\Python_jehu\test_data\test_case925.xlsx','juhe').get_data()
-    # print(res)
-    DoExcel(r'D:\Web_python2\Python_jehu\test_data\test_case925.xlsx', 'juhe','daiyananis shuaige').save_data()
+    res = DoExcel().get_data(r'D:\Web_python2\Python_jehu\test_data\test_case925.xlsx','juhe')
+    print(res)
+    # DoExcel(r'D:\Web_python2\Python_jehu\test_data\test_case925.xlsx', 'juhe','daiyananis shuaige').save_data()
