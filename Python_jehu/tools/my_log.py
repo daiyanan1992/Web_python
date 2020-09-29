@@ -12,6 +12,7 @@ class My_Log:
         ch = logging.StreamHandler()
         ch.setLevel('DEBUG')
         ch.setFormatter(foematter)
+
         fh = logging.FileHandler(r'D:\Web_python2\Python_jehu\test_result\log\py11.txt','a',encoding='utf-8')
         fh.setLevel('DEBUG')
         fh.setFormatter(foematter)

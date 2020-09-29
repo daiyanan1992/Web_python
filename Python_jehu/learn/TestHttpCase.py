@@ -2,6 +2,7 @@ import unittest
 from Python_jehu.tools.HttpTestDemoNew import HttpTestDemo
 from Python_jehu.tools.do_excel import DoExcel
 from ddt import ddt,data
+from Python_jehu.tools.my_log import My_Log
 
 
 # test_data=DoExcel().get_data(r'D:\Web_python2\Python_jehu\test_data\test_case925.xlsx','juhe')
@@ -36,6 +37,7 @@ class TestHttpCase(unittest.TestCase):
         finally:
             print(res.json())
             print(self.case_name)
+            My_Log().my_log(str(res.json()),'DEBUG')
 
 
 
