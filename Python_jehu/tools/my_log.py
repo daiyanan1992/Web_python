@@ -1,4 +1,6 @@
 import logging
+from Python_jehu.tools.project_path import *
+
 
 class My_Log:
     def my_log(self,msg,level,):
@@ -13,7 +15,7 @@ class My_Log:
         ch.setLevel('DEBUG')
         ch.setFormatter(foematter)
 
-        fh = logging.FileHandler(r'D:\Web_python2\Python_jehu\test_result\log\py11.txt','a',encoding='utf-8')
+        fh = logging.FileHandler(Log_path,'a',encoding='utf-8')
         fh.setLevel('DEBUG')
         fh.setFormatter(foematter)
         #两者对接

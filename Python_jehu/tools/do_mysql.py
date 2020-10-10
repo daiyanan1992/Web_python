@@ -71,6 +71,6 @@ class DBHelper():
     def select(self):
         self.connectiondatabase()
         self.cur.execute(self.sql,self.params)
-        result = self.cur.fetchall()
+        result = self.cur.fetchall()#返回的是列表
         print(result)
         return result

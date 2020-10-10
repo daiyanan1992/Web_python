@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="736a2cc2-ad81-4641-a5de-652e3de25354" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_jehu/config_data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_jehu/config_data/db_config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_jehu/tools/do_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_jehu/learn/testDemo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_jehu/learn/TestHttpCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_jehu/learn/TestHttpCase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_jehu/config_data/db_config" beforeDir="false" afterPath="$PROJECT_DIR$/Python_jehu/config_data/db_config.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_jehu/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_jehu/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_jehu/test_result/log/py11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_jehu/test_result/log/py11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_jehu/tools/do_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_jehu/tools/do_mysql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_jehu/tools/my_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_jehu/tools/my_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_jehu/tools/project_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_jehu/tools/project_path.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <recent name="D:\Web_python2\Stu_01\OldDic" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.do_mysql">
+  <component name="RunManager" selected="Python.run">
     <configuration name="do_mysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Web_python2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_pands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="testDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Web_python2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,12 +152,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_jehu/test_data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_jehu/learn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_jehu/test_data/test_pands.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_jehu/learn/testDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.do_mysql" />
         <item itemvalue="Python.run" />
-        <item itemvalue="Python.my_log" />
-        <item itemvalue="Python.test_pands" />
         <item itemvalue="Python.project_path" />
+        <item itemvalue="Python.testDemo" />
+        <item itemvalue="Python.do_mysql" />
+        <item itemvalue="Python.my_log" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +191,9 @@
       <workItem from="1600389644448" duration="11784000" />
       <workItem from="1600648666599" duration="75583000" />
       <workItem from="1601099502455" duration="19443000" />
-      <workItem from="1601259600607" duration="15377000" />
+      <workItem from="1601259600607" duration="17893000" />
+      <workItem from="1602204332754" duration="1698000" />
+      <workItem from="1602209702626" duration="2960000" />
     </task>
     <task id="LOCAL-00001" summary="这是我第一个代码">
       <created>1600244049748</created>
@@ -290,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601282051695</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2020年9月29日编写测试聚合框架">
+      <created>1601368572094</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601368572094</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +318,8 @@
     <MESSAGE value="2020年9月26日编写测试聚合框架" />
     <MESSAGE value="2020年9月27日编写测试聚合框架" />
     <MESSAGE value="2020年9月28日编写测试聚合框架" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年9月28日编写测试聚合框架" />
+    <MESSAGE value="2020年9月29日编写测试聚合框架" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年9月29日编写测试聚合框架" />
   </component>
   <component name="WindowStateProjectService">
     <state x="695" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601363636445">
@@ -319,26 +330,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1135" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601281639380" />
-    <state x="572" y="115" key="CommitChangelistDialog2" timestamp="1601282050603">
+    <state x="572" y="115" key="CommitChangelistDialog2" timestamp="1601368570780">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601282050603" />
-    <state width="1340" height="211" key="GridCell.Tab.0.bottom" timestamp="1601362670171">
+    <state x="572" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601368570780" />
+    <state width="1876" height="211" key="GridCell.Tab.0.bottom" timestamp="1602309691734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="211" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601362670171" />
-    <state width="1340" height="211" key="GridCell.Tab.0.center" timestamp="1601362670170">
+    <state width="1876" height="211" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602309691734" />
+    <state width="1876" height="211" key="GridCell.Tab.0.center" timestamp="1602309691734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="211" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601362670170" />
-    <state width="1340" height="211" key="GridCell.Tab.0.left" timestamp="1601362670170">
+    <state width="1876" height="211" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602309691734" />
+    <state width="1876" height="211" key="GridCell.Tab.0.left" timestamp="1602309691734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="211" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601362670170" />
-    <state width="1340" height="211" key="GridCell.Tab.0.right" timestamp="1601362670170">
+    <state width="1876" height="211" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602309691734" />
+    <state width="1876" height="211" key="GridCell.Tab.0.right" timestamp="1602309691734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="211" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601362670170" />
+    <state width="1876" height="211" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602309691734" />
     <state width="1340" height="260" key="GridCell.Tab.1.bottom" timestamp="1601259343546">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -359,10 +370,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="473" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601363160535" />
-    <state x="564" y="255" key="Vcs.Push.Dialog.v2" timestamp="1601282059018">
+    <state x="564" y="255" key="Vcs.Push.Dialog.v2" timestamp="1601368578528">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="564" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601282059018" />
+    <state x="564" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601368578528" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601017681562">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -388,9 +399,10 @@
     <SUITE FILE_PATH="coverage/Web_python2$do_excel.coverage" NAME="do_excel Coverage Results" MODIFIED="1600843258360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/API_AUTO" />
     <SUITE FILE_PATH="coverage/Web_python2$Test01.coverage" NAME="Test01 Coverage Results" MODIFIED="1600246857611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
     <SUITE FILE_PATH="coverage/Web_python2$Unittests_for_TestHttpJuHe_TestHttpJuHe_test_success_demo02.coverage" NAME="Unittests for TestHttpJuHe.TestHttpJuHe.test_success_demo02 Coverage Results" MODIFIED="1600758532460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/Homework" />
+    <SUITE FILE_PATH="coverage/Web_python2$testDemo.coverage" NAME="testDemo Coverage Results" MODIFIED="1602206606118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_jehu/learn" />
     <SUITE FILE_PATH="coverage/Web_python2$test917.coverage" NAME="test917 Coverage Results" MODIFIED="1600330096064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
     <SUITE FILE_PATH="coverage/Web_python2$HttpTestDemo.coverage" NAME="HttpTestDemo Coverage Results" MODIFIED="1600756064849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/Homework" />
-    <SUITE FILE_PATH="coverage/Web_python2$project_path.coverage" NAME="project_path Coverage Results" MODIFIED="1601196117946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_jehu/tools" />
+    <SUITE FILE_PATH="coverage/Web_python2$project_path.coverage" NAME="project_path Coverage Results" MODIFIED="1602309642911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_jehu/tools" />
     <SUITE FILE_PATH="coverage/Web_code2$test917.coverage" NAME="test917 Coverage Results" MODIFIED="1600348733786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01" />
     <SUITE FILE_PATH="coverage/Web_python2$my_log.coverage" NAME="my_log Coverage Results" MODIFIED="1601281694190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_jehu/tools" />
     <SUITE FILE_PATH="coverage/Web_python2$Unittests_for_TestHttpJuHe_TestHttpJuHe_test_success_demo01.coverage" NAME="Unittests for TestHttpJuHe.TestHttpJuHe.test_success_demo01 Coverage Results" MODIFIED="1600757780763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/Homework" />
@@ -399,6 +411,6 @@
     <SUITE FILE_PATH="coverage/Web_python2$class_01.coverage" NAME="class_01 Coverage Results" MODIFIED="1600934281601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stu_01/OldDic/do_config" />
     <SUITE FILE_PATH="coverage/Web_python2$do_mysql.coverage" NAME="do_mysql Coverage Results" MODIFIED="1601362670158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_jehu/tools" />
     <SUITE FILE_PATH="coverage/Web_python2$test_pands.coverage" NAME="test_pands Coverage Results" MODIFIED="1601280577895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_jehu/test_data" />
-    <SUITE FILE_PATH="coverage/Web_python2$run.coverage" NAME="run Coverage Results" MODIFIED="1601340808754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_jehu" />
+    <SUITE FILE_PATH="coverage/Web_python2$run.coverage" NAME="run Coverage Results" MODIFIED="1602309691724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_jehu" />
   </component>
 </project>
